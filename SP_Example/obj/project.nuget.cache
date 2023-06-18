@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oS+hH7DjfsBxN8ViLy0EuldYt/GmSYs0u6Zew4pfmaI+ycJ5Y1aCxx+c0Pl8Y46aRlaPO/PQhkt0xRzLPdloaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nurri\\source\\repos\\SP_Example\\SP_Example\\SP_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nurri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
