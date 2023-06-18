@@ -1,0 +1,10 @@
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.csproj.AssemblyReference.cache
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.csproj.CoreCompileInputs.cache
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.csproj.CopyComplete
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\Question4_Server.exe.config
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.exe
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.pdb
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\Question4_Server.exe
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\Question4_Server.pdb
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\Newtonsoft.Json.dll
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question4_Server\Newtonsoft.Json.xml

@@ -1,0 +1,7 @@
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question1\obj\Debug\Question1.csproj.AssemblyReference.cache
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question1\Question1.exe.config
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question1\obj\Debug\Question1.exe
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question1\obj\Debug\Question1.pdb
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question1\Question1.exe
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question1\Question1.pdb

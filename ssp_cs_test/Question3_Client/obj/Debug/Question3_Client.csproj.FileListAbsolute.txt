@@ -1,0 +1,13 @@
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.csproj.CoreCompileInputs.cache
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.exe.config
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.exe
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.pdb
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.exe
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.pdb
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question3_Client\obj\Debug\Question3_Client.csproj.AssemblyReference.cache
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question3_Client\obj\Debug\Question3_Client.csproj.CoreCompileInputs.cache
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question3_Client\Question3_Client.exe.config
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question3_Client\obj\Debug\Question3_Client.exe
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question3_Client\obj\Debug\Question3_Client.pdb
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question3_Client\Question3_Client.exe
+C:\Users\nurri\source\repos\ssp_cs_test\ssp_cs_test\Question3_Client\Question3_Client.pdb
